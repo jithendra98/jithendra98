@@ -27,15 +27,15 @@
   <a href="https://linkedin.com/in/mallela-jithendra-93j">
     <img src="https://img.shields.io/badge/LinkedIn-Mallela%20Jithendra-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://github.com/mallelajithendra">
-    <img src="https://img.shields.io/badge/GitHub-mallelajithendra-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <a href="https://github.com/jithendra98">
+    <img src="https://img.shields.io/badge/GitHub-Mallela%20Jithendra-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mallelajithendra&style=flat-square&color=6A0DAD&label=Profile+Views" />
-  <img src="https://img.shields.io/github/followers/mallelajithendra?style=flat-square&color=4B0082&label=Followers" />
-  <img src="https://img.shields.io/github/stars/mallelajithendra?style=flat-square&color=7B2FBE&label=Stars" />
+  <img src="https://komarev.com/ghpvc/?username=jithendra98&style=flat-square&color=6A0DAD&label=Profile+Views" />
+  <img src="https://img.shields.io/github/followers/jithendra98?style=flat-square&color=4B0082&label=Followers" />
+  <img src="https://img.shields.io/github/stars/jithendra98?style=flat-square&color=7B2FBE&label=Stars" />
 </p>
 
 ---
@@ -136,7 +136,7 @@ Open To:
 | **Security** | Stateless JWT session management · Role-based merchant admin authorization |
 | **Architecture** | Modular microservices · DB schema isolation · Concurrency conflict resolution |
 | **Impact** | Eliminated checkout race-conditions · Scalable enterprise retail backbone |
-| **Repository** | [![GitHub](https://img.shields.io/badge/View%20Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/mallelajithendra) |
+| **Repository** | [![GitHub](https://img.shields.io/badge/View%20Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/jithendra98) |
 
 </div>
 
@@ -162,7 +162,7 @@ Architected from the ground up as a modular, horizontally scalable distributed s
 | **Architecture** | RAG pipeline · Vector space indexing · Modular LangChain orchestration blocks |
 | **UX** | Fully responsive Streamlit interface · Low-friction interaction layer |
 | **Impact** | Production-ready AI research assistant with enterprise retrieval accuracy |
-| **Repository** | [![GitHub](https://img.shields.io/badge/View%20Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/mallelajithendra) |
+| **Repository** | [![GitHub](https://img.shields.io/badge/View%20Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/jithendra98) |
 
 </div>
 
@@ -188,7 +188,7 @@ Engineered as a full retrieval pipeline — from document ingestion and semantic
 | **Architecture** | MVC Django · NLP string analysis · Recursive regression debugging loops |
 | **Testing** | Edge-case unit testing · Concurrency diagnostics · System durability validation |
 | **Impact** | Structured AI coaching output with measurable accuracy gains |
-| **Repository** | [![GitHub](https://img.shields.io/badge/View%20Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/mallelajithendra) |
+| **Repository** | [![GitHub](https://img.shields.io/badge/View%20Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/jithendra98) |
 
 </div>
 
@@ -269,17 +269,17 @@ Embedded within a cross-functional agile engineering team to drive large-scale d
 ## ◈ Coding Profiles
 
 <p align="center">
-  <a href="https://leetcode.com/mallelajithendra">
+  <a href="https://leetcode.com/jithendra98">
     <img src="https://img.shields.io/badge/LeetCode-50%2B%20Problems%20Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
 </p>
 <p align="center">
-  <a href="https://www.geeksforgeeks.org/user/mallelajithendra">
+  <a href="https://www.geeksforgeeks.org/user/jithendra98">
     <img src="https://img.shields.io/badge/GeeksforGeeks-Active%20Contributor-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
   </a>
 </p>
 <p align="center">
-  <a href="https://www.hackerrank.com/mallelajithendra">
+  <a href="https://www.hackerrank.com/jithendra98">
     <img src="https://img.shields.io/badge/HackerRank-Problem%20Solver-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black" />
   </a>
 </p>
@@ -289,13 +289,13 @@ Embedded within a cross-functional agile engineering team to drive large-scale d
 ## ◈ GitHub Analytics
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mallelajithendra&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D0D0D&title_color=9B59B6&icon_color=7B2FBE&text_color=C9B1FF&rank_icon=github" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jithendra98&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D0D0D&title_color=9B59B6&icon_color=7B2FBE&text_color=C9B1FF&rank_icon=github" />
   &nbsp;
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mallelajithendra&layout=compact&langs_count=8&theme=midnight-purple&hide_border=true&bg_color=0D0D0D&title_color=9B59B6&text_color=C9B1FF" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jithendra98&layout=compact&langs_count=8&theme=midnight-purple&hide_border=true&bg_color=0D0D0D&title_color=9B59B6&text_color=C9B1FF" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=mallelajithendra&theme=midnight-purple&hide_border=true&background=0D0D0D&ring=9B59B6&fire=7B2FBE&currStreakLabel=C9B1FF&sideLabels=C9B1FF&dates=888888" />
+  <img src="https://streak-stats.demolab.com/?user=jithendra98&theme=midnight-purple&hide_border=true&background=0D0D0D&ring=9B59B6&fire=7B2FBE&currStreakLabel=C9B1FF&sideLabels=C9B1FF&dates=888888" />
 </p>
 
 ---
@@ -303,7 +303,7 @@ Embedded within a cross-functional agile engineering team to drive large-scale d
 ## ◈ GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mallelajithendra&theme=onedark&no-frame=true&no-bg=false&row=1&column=6&margin-w=10&margin-h=10" />
+  <img src="https://github-profile-trophy.vercel.app/?username=jithendra98&theme=onedark&no-frame=true&no-bg=false&row=1&column=6&margin-w=10&margin-h=10" />
 </p>
 
 ---
@@ -311,7 +311,7 @@ Embedded within a cross-functional agile engineering team to drive large-scale d
 ## ◈ Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mallelajithendra&bg_color=0D0D0D&color=9B59B6&line=7B2FBE&point=C9B1FF&area=true&area_color=4B0082&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jithendra98&bg_color=0D0D0D&color=9B59B6&line=7B2FBE&point=C9B1FF&area=true&area_color=4B0082&hide_border=true" />
 </p>
 
 ---
@@ -319,7 +319,7 @@ Embedded within a cross-functional agile engineering team to drive large-scale d
 ## ◈ Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/mallelajithendra/mallelajithendra/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/jithendra98/jithendra98/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 ---
@@ -365,8 +365,8 @@ current_focus:
   </a>
 </p>
 <p align="center">
-  <a href="https://github.com/mallelajithendra">
-    <img src="https://img.shields.io/badge/GitHub-Follow%20%40mallelajithendra-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <a href="https://github.com/jithendra98">
+    <img src="https://img.shields.io/badge/GitHub-Follow%20%40jithendra98-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
