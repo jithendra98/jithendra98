@@ -9,9 +9,9 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/B.Tech-Computer%20Science%20%26%20Engineering-6A0DAD?style=for-the-badge&logo=graduation-cap&logoColor=white" />
-  <img src="https://img.shields.io/badge/LPU-Phagwara%2C%20Punjab-4B0082?style=for-the-badge&logo=university&logoColor=white" />
-  <img src="https://img.shields.io/badge/2023--2027-Expected%20Graduation-7B2FBE?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/B.Tech-Computer%20Science%20%26%20Engineering-6A0DAD?style=for-the-badge&logo=academia&logoColor=white" />
+  <img src="https://img.shields.io/badge/LPU-Phagwara%2C%20Punjab-4B0082?style=for-the-badge&logo=googlescholar&logoColor=white" />
+  <img src="https://img.shields.io/badge/2023--2027-Expected%20Graduation-7B2FBE?style=for-the-badge&logo=clockify&logoColor=white" />
 </p>
 
 <p align="center">
@@ -24,7 +24,7 @@
   <a href="mailto:mallelajithendra2004@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-mallelajithendra2004-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/mallela-jithendra">
+  <a href="https://linkedin.com/in/mallela-jithendra-93j">
     <img src="https://img.shields.io/badge/LinkedIn-Mallela%20Jithendra-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/mallelajithendra">
@@ -289,12 +289,13 @@ Embedded within a cross-functional agile engineering team to drive large-scale d
 ## ◈ GitHub Analytics
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mallelajithendra&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D0D0D&title_color=9B59B6&icon_color=7B2FBE&text_color=C9B1FF" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mallelajithendra&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D0D0D&title_color=9B59B6&icon_color=7B2FBE&text_color=C9B1FF&rank_icon=github" />
+  &nbsp;
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mallelajithendra&layout=compact&langs_count=8&theme=midnight-purple&hide_border=true&bg_color=0D0D0D&title_color=9B59B6&text_color=C9B1FF" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mallelajithendra&theme=midnight-purple&hide_border=true&background=0D0D0D&ring=9B59B6&fire=7B2FBE&currStreakLabel=C9B1FF&sideLabels=C9B1FF&dates=888888" />
+  <img src="https://streak-stats.demolab.com/?user=mallelajithendra&theme=midnight-purple&hide_border=true&background=0D0D0D&ring=9B59B6&fire=7B2FBE&currStreakLabel=C9B1FF&sideLabels=C9B1FF&dates=888888" />
 </p>
 
 ---
@@ -302,7 +303,7 @@ Embedded within a cross-functional agile engineering team to drive large-scale d
 ## ◈ GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mallelajithendra&theme=darkhub&no-frame=true&no-bg=true&row=1&column=7&margin-w=8" />
+  <img src="https://github-profile-trophy.vercel.app/?username=mallelajithendra&theme=onedark&no-frame=true&no-bg=false&row=1&column=6&margin-w=10&margin-h=10" />
 </p>
 
 ---
@@ -359,7 +360,7 @@ current_focus:
   </a>
 </p>
 <p align="center">
-  <a href="https://linkedin.com/in/mallela-jithendra">
+  <a href="https://linkedin.com/in/mallela-jithendra-93j">
     <img src="https://img.shields.io/badge/LinkedIn-Connect%20Professionally-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
